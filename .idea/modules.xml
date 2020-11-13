@@ -3,6 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Call me awesome/Tic-Tac-Toe.Problems-Call_me_awesome.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Call me awesome/Tic-Tac-Toe.Problems-Call_me_awesome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Call me awesome/Tic-Tac-Toe.Problems-Call_me_awesome.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Call me awesome/Tic-Tac-Toe.Problems-Call_me_awesome.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Call me awesome/Tic-Tac-Toe.Problems-Call_me_awesome.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Call me awesome/Tic-Tac-Toe.Problems-Call_me_awesome.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove HTML tags/Tic-Tac-Toe.Problems-Remove_HTML_tags.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove HTML tags/Tic-Tac-Toe.Problems-Remove_HTML_tags.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove HTML tags/Tic-Tac-Toe.Problems-Remove_HTML_tags.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove HTML tags/Tic-Tac-Toe.Problems-Remove_HTML_tags.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove HTML tags/Tic-Tac-Toe.Problems-Remove_HTML_tags.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove HTML tags/Tic-Tac-Toe.Problems-Remove_HTML_tags.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove comments/Tic-Tac-Toe.Problems-Remove_comments.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove comments/Tic-Tac-Toe.Problems-Remove_comments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove comments/Tic-Tac-Toe.Problems-Remove_comments.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove comments/Tic-Tac-Toe.Problems-Remove_comments.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove comments/Tic-Tac-Toe.Problems-Remove_comments.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove comments/Tic-Tac-Toe.Problems-Remove_comments.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove extra spaces/Tic-Tac-Toe.Problems-Remove_extra_spaces.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove extra spaces/Tic-Tac-Toe.Problems-Remove_extra_spaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove extra spaces/Tic-Tac-Toe.Problems-Remove_extra_spaces.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove extra spaces/Tic-Tac-Toe.Problems-Remove_extra_spaces.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove extra spaces/Tic-Tac-Toe.Problems-Remove_extra_spaces.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove extra spaces/Tic-Tac-Toe.Problems-Remove_extra_spaces.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" />
